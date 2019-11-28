@@ -3,13 +3,13 @@ html {
 }
 
 .background {
-  background-image: repeating-linear-gradient(-33deg, #d4fdff, #b3fbff 1.5%, #c9fcff 1.5%);
+  background-image: repeating-linear-gradient(-33deg, #d4fdff, #b3fbff 1.75%, #c9fcff 1.75%);
   border-top: 8px solid #b3fbff;
   border-bottom: 8px solid #b3fbff;
 }
 
 .banner {
-  text-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
 }
 
 .header {
