@@ -3,9 +3,9 @@ html {
 }
 
 .background {
-  background-image: repeating-linear-gradient(-33deg, #c9fcff, #b3fbff 2%, #d4fdff 2%);
-  border-top: 10px solid #b3fbff;
-  border-bottom: 10px solid #b3fbff;
+  background-image: repeating-linear-gradient(-33deg, #d4fdff, #b3fbff 1.5%, #c9fcff 1.5%);
+  border-top: 8px solid #b3fbff;
+  border-bottom: 8px solid #b3fbff;
 }
 
 .banner {
